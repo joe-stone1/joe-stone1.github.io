@@ -1,4 +1,4 @@
-baseurl: 'https://joe-stone1/joe-stone1.github.io/'
+baseurl: https://joe-stone1/joe-stone1.github.io/
 languageCode: en-us
 title: A Hugo website
 theme: hugo-lithium
