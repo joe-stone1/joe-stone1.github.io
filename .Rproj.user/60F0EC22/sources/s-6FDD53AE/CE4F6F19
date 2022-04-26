@@ -3,7 +3,7 @@
     "path": "~/Documents/R_projects/night/config.yaml",
     "project_path": "config.yaml",
     "type": "yaml",
-    "hash": "706036920",
+    "hash": "4282331711",
     "contents": "",
     "dirty": false,
     "created": 1651004585577.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,19",
+        "cursorPosition": "0,51",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1651004842,
+    "lastKnownWriteTime": 1651004913,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1651004842056,
+    "last_content_update": 1651004913804,
     "read_only": false,
     "read_only_alternatives": []
 }
